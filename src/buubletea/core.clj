@@ -263,9 +263,6 @@
           (ui/stage
            :title "ToDos"
            :min-height 600
-           ;;:min-width 1500
-           :listen/height {:event :height-change 
-                           :fn-fx/include {::new-item #{:text}}}
            :shown true
            :scene (ui/scene 
                    :root (main-window args)))))
