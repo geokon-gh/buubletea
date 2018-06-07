@@ -331,7 +331,7 @@
         
         data-state (atom {:current-webcam-params starting-webcam-params
                           :todos [{:done? false
-                                   :text  "George's confused face when the app launches..."
+                                   :text  "A confused face when the app launches..."
                                    :webcam-params starting-webcam-params
                                    :image (make-jfx-image-from-byte-buffer first-image-buffer width height)
                                    :histogram (image-to-histogram first-image-buffer 256 width height)
