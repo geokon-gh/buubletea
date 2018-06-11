@@ -1,7 +1,7 @@
 (defproject bubbletea "0.1.0-SNAPSHOT"
   :description
   "This is a basic example for working in **Clojure** with **JavaFX**, **OpenCV** and simple plotting"
-  :url "http://geokon-gh.github.io/histogram/index.html"
+  :url "https://geokon-gh.github.io/buubletea/"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :repositories [["vendredi" "https://repository.hellonico.info/repository/hellonico/"]]
